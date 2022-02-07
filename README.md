@@ -19,6 +19,7 @@ I am Software Developer with skills C#.
 • Figma
 • Photoshop
  ---
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
