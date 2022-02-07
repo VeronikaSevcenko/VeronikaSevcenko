@@ -6,16 +6,27 @@ I am Software Developer with skills C#.
 
  Git 
  C# 
+ ---
  .NET 
+ ---
  Relational Databases & SQL
+ ---
  HTTP & Web API Basics
+ ---
  Unit Testing
+ ---
  Clean Code, SOLID
+ ---
  Design Patterns
+ ---
  HTML & CSS, TypeScript & NodeJS basics
+ ---
  Illustrator
+ ---
  Figma
+ ---
  Photoshop
+ ---
  
  <!--
 **VeronikaSevcenko/VeronikaSevcenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
