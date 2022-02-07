@@ -6,6 +6,8 @@ I am Software Developer with skills C#.
 
 Always learning new things and skills to progress my knownladge.
 
+📩  You can reach me on: <a href= "mailto:verosevcenko8@gmail.com">verosevcenko8@gmail.com</a> | <a href= "mailto:www.linkedin.com/in/veronika-ševčenko-618814230/">www.linkedin.com/in/veronika-ševčenko</a>
+
 ---
 🎒Toolbox
 
@@ -14,18 +16,24 @@ Always learning new things and skills to progress my knownladge.
 
 📚 Skills:
 
-🔘 Git
-🔘 .NET
-🔘 Relational Databases & SQL
-🔘 HTTP & Web API Basics
-🔘
-🔘
-🔘
-🔘
-🔘
-🔘
-🔘
-🔘
+• Git 
+
+• C# 
+
+• .NET 
+
+• Relational Databases & SQL
+
+• HTTP & Web API Basics
+
+• Unit Testing
+
+• Clean Code, SOLID
+
+• Design Patterns
+
+• HTML & CSS, TypeScript & NodeJS basics
+
  <!--
 **VeronikaSevcenko/VeronikaSevcenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
