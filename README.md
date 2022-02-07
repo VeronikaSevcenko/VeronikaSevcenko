@@ -4,18 +4,7 @@ Software Developer
 
 I am Software Developer with skills C#.
 
- Git ,                              Clean Code, SOLID
- 
- C# ,                              Design Patterns
- 
- .NET ,                            HTML & CSS, TypeScript & NodeJS basics
- 
- Relational Databases & SQL ,       Illustrator
- 
- HTTP & Web API Basics ,           Figma
- 
- Unit Testing ,                     Photoshop
- 
+Always learning new things and skills to progress my knownladge.
  <!--
 **VeronikaSevcenko/VeronikaSevcenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
