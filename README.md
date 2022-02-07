@@ -36,10 +36,6 @@ Always learning new things and skills to progress my knownladge.
 
 ---
 
-🧷 Pinned
-
-
-
  <!--
 **VeronikaSevcenko/VeronikaSevcenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
