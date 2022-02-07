@@ -33,6 +33,7 @@ Always learning new things and skills to progress my knownladge.
 • Design Patterns
 
 • HTML & CSS, TypeScript & NodeJS basics
+
 ---
 
 🧷 Pinned
